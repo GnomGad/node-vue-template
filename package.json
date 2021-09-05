@@ -1,6 +1,6 @@
 {
   "name": "vue-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -40,6 +40,8 @@
     "lint-staged": "^11.1.2"
   },
   "dependencies": {
-    "eslinter": "^3.2.1"
+    "dotenv": "^10.0.0",
+    "eslinter": "^3.2.1",
+    "vue": "^2.6.14"
   }
 }
